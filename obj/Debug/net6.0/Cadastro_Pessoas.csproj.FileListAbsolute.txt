@@ -1,0 +1,15 @@
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\bin\Debug\net6.0\Cadastro_Pessoas.exe
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\bin\Debug\net6.0\Cadastro_Pessoas.deps.json
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\bin\Debug\net6.0\Cadastro_Pessoas.runtimeconfig.json
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\bin\Debug\net6.0\Cadastro_Pessoas.dll
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\bin\Debug\net6.0\Cadastro_Pessoas.pdb
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.csproj.AssemblyReference.cache
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.AssemblyInfoInputs.cache
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.AssemblyInfo.cs
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.dll
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\refint\Cadastro_Pessoas.dll
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.pdb
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\Cadastro_Pessoas.genruntimeconfig.cache
+C:\Users\aliss\Desktop\Senai\2 Back-End\Cadastro_Pessoas\obj\Debug\net6.0\ref\Cadastro_Pessoas.dll
