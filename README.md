@@ -46,7 +46,7 @@ Possibilita acessar os dados para obter informações das pessoas cadastradas no
 EXECUÇÃO 
 Dotnet run
 
-=====================================================
+
 |        Bem vindo sistema de cadastro de           |
 |           Pessoa Físicas e Jurídicas              |
 =====================================================
