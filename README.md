@@ -45,7 +45,10 @@ Possibilita acessar os dados para obter informações das pessoas cadastradas no
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## EXECUÇÃO 
 
-Abra seu terminal no Visual Studio Code e digite:
+Abra seu terminal no Visual Studio Code;
+Entre no diretório;
+cd [nome-projeto];
+e digite:
 
 Dotnet run
 
