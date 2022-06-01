@@ -26,7 +26,7 @@ Visual Studio Code (https://code.visualstudio.com/)
 Clone o projeto com o comando abaixo:  
 bash  
 Clone o repositório  
->git clone https://github.com/[usuario]/[nome-projeto].git  
+>git clone https://github.com/Jullys-Alisson/Cadastro_Pessoas_BackEnd  
 Entre no diretório  
 >cd [nome-projeto]  
 Execute o projeto  
