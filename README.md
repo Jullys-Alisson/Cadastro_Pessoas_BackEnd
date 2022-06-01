@@ -44,7 +44,13 @@ Possibilita acessar os dados para obter informações das pessoas cadastradas no
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXECUÇÃO 
+
+Abra seu terminal no Visual Studio Code e digite:
+
 Dotnet run
+
+
+
 
 
 |        Bem vindo sistema de cadastro de           |
